@@ -18,7 +18,7 @@ https://www.jdla.org/certificate/engineer/#engineer_No03
 2022#1試験のシラバスとなるE2020だけでなく、E2022#2以降のシラバスも、もう公開されてます。
 ## シラバスはまとめておこう！
 2021#2の時に役に立ったと思う勉強法のひとつが、「シラバスの内容をEXCELに整理しておく」でした。これは必ず後で役立ちますので、添付しておきます。
-https://github.com/CDLE-ecert/CDLE-Blog/blob/main/files/E%E8%B3%87%E6%A0%BC%E3%82%B7%E3%83%A9%E3%83%90%E3%82%B9%E3%81%BE%E3%81%A8%E3%82%81.xlsm
+https://github.com/CDLE-ecert/cdle-ecert/blob/main/files/E%E8%B3%87%E6%A0%BC%E3%82%B7%E3%83%A9%E3%83%90%E3%82%B9%E3%81%BE%E3%81%A8%E3%82%81.xlsm
 
 なんでこのファイルが役に立つのか？それは、もちろんひとつはシラバスの全体像を整理できることなんですが、もう一つ重要なことがあります。それは、シラバスに出てくる項目の勉強に必要な情報をまとめておけることなんです。以下の感じ。
 ﻿﻿![](https://static.zenn.studio/user-upload/8e7b2d3c94ca-20260614.png)
