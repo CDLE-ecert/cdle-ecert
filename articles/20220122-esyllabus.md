@@ -2,7 +2,7 @@
 title: "E資格シラバスを見てみましょう！！【過去記事転載(2022.01.22)】"
 emoji: "👻"
 type: "idea"
-topics: ["ecertgroupgf", "cdle", "ecert"]
+topics: ["e資格勉強グループ", "cdle", "ecert"]
 published: true
 published_at: 2022-01-22 05:05
 ---
