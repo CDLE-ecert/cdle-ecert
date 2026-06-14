@@ -1,10 +1,10 @@
 ---
 title: "E資格シラバスを見てみましょう！！【過去記事転載(2022.01.22)】"
 emoji: "👻"
-type: "idea" # tech: 技術記事 / idea: アイデア
-topics: ["E資格勉強グループ", "CDLE", "E資格"]
+type: "idea"
+topics: ["ecertgroupgf", "cdle", "ecert"]
 published: true
-published_at: 2022-01-22 05:05 # 過去の日時を指定する
+published_at: 2022-01-22 05:05
 ---
 
 E資格2021#2にどさくさに紛れて合格したもりさんです。今度はちゃんと受かりたいなって思って、コツコツと勉強頑張ってます！！
